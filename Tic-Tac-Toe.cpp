@@ -94,7 +94,7 @@ int main() {
             break;
         }
 
-        // Switch players
+        // Switch players one to next
         currentPlayer = (currentPlayer == 'X') ? 'O' : 'X';
     }
 
